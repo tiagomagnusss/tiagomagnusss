@@ -1,16 +1,14 @@
-### Hi there 👋
+### Welcome!
 
-<!--
-**tiagomagnusss/tiagomagnusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_I'm a software developer and computer science undergraduate at UFRGS, with focus on cybersecurity. I plan on working on my software engineering and DevOps skills._
 
-Here are some ideas to get you started:
+I've already worked/am currently working with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+Find me:
+
+<a href="https://www.linkedin.com/in/tiago-magnus/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagomagnusss" />
