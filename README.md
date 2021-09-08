@@ -1,6 +1,6 @@
 ### Welcome!
 
-_I'm a software developer and computer science undergraduate at UFRGS, with focus on cybersecurity. I plan on working on my software engineering and DevOps skills._
+_I'm a software developer and computer science undergraduate at UFRGS, with focus on cybersecurity. My current plan is to keep working on my software engineering and DevOps skills._
 
 I've already worked/am currently working with:
 
