@@ -1,6 +1,6 @@
 ### Welcome!
 
-_I'm a software developer and a computer science undergraduate, with focus on cybersecurity. My current plan is to keep working on my software engineering and DevOps skills._
+_I'm a software developer and a computer scientist, with focus on cybersecurity. My current plan is to keep working on my software engineering and DevOps skills._
 
 I've already worked/am currently working with:
 
